@@ -3,6 +3,6 @@ INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES('Rowdy',
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES('Tabitha', 6, 'F')
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES('Sergeant Brown', 19, 'M')
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES('Melissa', 13, 'F')
-INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES('Grinch', 'M')
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES('Grinch', 2, 'M')
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES('Wendy', 6, 'F')
-INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES('NULL', 'F')
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES('NULL',  'F')
