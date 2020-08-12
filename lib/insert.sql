@@ -1,0 +1,8 @@
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES('Mr. Chocolate', 'M')
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES('Rowdy','M')
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES('Tabitha', 'F')
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES('Sergeant Brown', 'M')
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES('Melissa', 'F')
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES('Grinch', 'M')
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES('Wendy', 'F')
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES('NULL', 'F')
